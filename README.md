@@ -103,7 +103,7 @@ otherwise, you will be able to filter only the test items.
 
 ### Scroll's
 In the Header you have two options: <br/>
-Nossas soluções and Conheça a Jüssi <br/>
+"Nossas soluções" and "Conheça a Jüssi" <br/>
 If you click these options will give a smooth scrool in the place belonging to them on the page.
 
 ---
