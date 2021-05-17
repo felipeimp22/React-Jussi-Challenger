@@ -1,6 +1,6 @@
  <img src="https://lh3.googleusercontent.com/proxy/RKiPq6CfVGGD47fOrHEXuGPcoFo8GeGoSkBo0BuxyKfmJcTOSZQohpA9DaAyzsPJ1LiThF1P3Mi7qxc3gHNCiFw_q9jBTmsbZCLJQHokyquz79ScjDA4FNg">
 
-# Hello JUSSI 
+# Hello JUSSI 😀
 ## First configuration:
 ### Automated process
 In the root route there will be the file: <br/>
@@ -110,8 +110,10 @@ you can add the three as many times as you want. <br/>
 then just click on the shopping cart icon in the header and this will redirect you to the purchase page.
 
 ---
+
 ### About
 this will summarize about the company and if you click on the button it will redirect you to the main page of the company
+
 ---
 
 ### Solutions cards
@@ -122,9 +124,7 @@ Clicking on the card will open a modal with the description of the solution.
 you can register an email or word and will not require a password and your behavior is similar to login
 
 
-
-
-
+# Hope you guys like it !!! Thanks :)😁
 
 
 ---
