@@ -38,8 +38,8 @@ however if he is not logged in, he will not be able to access some features<br/>
 ### Private routes
 These are routes that require a token that can be obtained by logging into the application<br/>
 #### Observation: <span color: red> Important! </span> <br/>
-The application logins do not have validations, as they are made to simulate a login through a <br/>
-fake promisse, that is, any login and password it will enter as right.<br/>
+The application logins do not have validations, as they are made to simulate a real login through a <br/>
+fake promisse that is any email or word and password it will enter as right.<br/>
 
 
 ## Figma:
