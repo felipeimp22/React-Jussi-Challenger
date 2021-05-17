@@ -131,7 +131,7 @@ Clicking on the card will open a modal with the description of the solution.
 you can register an email or word and will not require a password and your behavior is similar to login
 
 
-# Hope you guys like it !!! Thanks :)😁
+# I Hope you guys like it !!! Thanks :)😁
 
 
 ---
