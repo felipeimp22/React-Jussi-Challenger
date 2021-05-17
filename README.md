@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- <img src="">
-=======
  <img src="https://lh3.googleusercontent.com/proxy/RKiPq6CfVGGD47fOrHEXuGPcoFo8GeGoSkBo0BuxyKfmJcTOSZQohpA9DaAyzsPJ1LiThF1P3Mi7qxc3gHNCiFw_q9jBTmsbZCLJQHokyquz79ScjDA4FNg">
->>>>>>> e4d28d4da50c39d9de236c1f30a7dead88c147ff
 
 # Hello JUSSI 😀
 ## First configuration:
